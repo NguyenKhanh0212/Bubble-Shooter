@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_five.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\five.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_eight.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\eight.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lose.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\lose.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_layout.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\game_layout.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_shoot_point.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\shoot_point.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nine.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\nine.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_four.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_win.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\win.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_four.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lose.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\lose.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_one.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_fall.mp3.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\raw\\fall.mp3"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_level_select.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\level_select.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stock_draw_sphere.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\stock_draw_sphere.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_b16.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\b16.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_selection.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\selection.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shoot_point.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\shoot_point.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stock_draw_sphere.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\stock_draw_sphere.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_four.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\four.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fotouh_pic.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\fotouh_pic.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ball.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\ball.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_surface_view.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\surface_view.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_win.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\win.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_five.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\five.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_two.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_win.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\win.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_hit.mp3.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\raw\\hit.mp3"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_start_menu.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\start_menu.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fotouh_pic.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\fotouh_pic.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_six.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\six.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_win.wav.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\raw\\win.wav"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seven.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\seven.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seven.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\seven.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ten.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\ten.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seven.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\seven.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_file.json.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\raw\\file.json"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shoot_point.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\shoot_point.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_stock_draw_sphere.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\stock_draw_sphere.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_three.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_six.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\six.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_one.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\one.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wall.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\wall.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_two.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\raw_lose.mp3.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\raw\\lose.mp3"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nine.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\nine.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_one.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wall.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\wall.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nine.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\nine.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_b16.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\b16.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ten.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\ten.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_two.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\two.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_selection_1.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\selection_1.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fotouh_pic.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\fotouh_pic.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b16.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\b16.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_three.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_three.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\three.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\layout_options_layout.xml.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\layout\\options_layout.xml"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_five.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\five.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_eight.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\eight.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wall.jpg.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\wall.jpg"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_six.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\six.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lose.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-ldpi\\lose.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eight.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-mdpi\\eight.png"
+    },
+    {
+        "merged": "C:\\Bubble-Shooter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ten.png.flat",
+        "source": "C:\\Bubble-Shooter\\app\\src\\main\\res\\drawable-hdpi\\ten.png"
+    }
+]
